@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\My WorkSpace\code\Cryptography\EXP_1\1_1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/My WorkSpace/code/Cryptography/EXP_1/1_1/cmake-build-debug

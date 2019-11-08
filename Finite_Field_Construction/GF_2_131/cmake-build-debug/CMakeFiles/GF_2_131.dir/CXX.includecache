@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Homework/Cryptography/exp2/SourceCode/GF_2_131/GF_2_131.cpp
+GF_2_131.h
+D:/Homework/Cryptography/exp2/SourceCode/GF_2_131/GF_2_131.h
+
+D:/Homework/Cryptography/exp2/SourceCode/GF_2_131/GF_2_131.h
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+
+D:/Homework/Cryptography/exp2/SourceCode/GF_2_131/main.cpp
+GF_2_131.h
+D:/Homework/Cryptography/exp2/SourceCode/GF_2_131/GF_2_131.h
+

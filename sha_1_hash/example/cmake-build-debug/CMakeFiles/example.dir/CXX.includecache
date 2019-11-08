@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Code_Project/C_Cryptography/exp4/example/main.cpp
+iostream
+-
+iomanip
+-
+string
+-
+sstream
+-
+vector
+-
+

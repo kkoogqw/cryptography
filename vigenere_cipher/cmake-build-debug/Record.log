@@ -1,0 +1,1076 @@
+------------------------------------------------------------
+Record time:	2018-09-21 18:18:12
+cip1: KCCPKBGUFDPHQTYAVINRRTMVGRKDNBVFDETDGILTXRGUDDKOTFMBPVGEGLTGCKQRACQCWDNAWCRXIZAKFTLEWRPTYCQKYVXCHKFTPONCQQRHJVAJUWETMCMSPKQDYHJVDAHCTRLSVSKCGCZQQDZXGSFRLSWCWSJTBHAFSIASPRJAHKJRJUMVGKMITZHFPDISPZLVLGWTFPLKKEBDPGCEBSHCTJRWXBAFSPEZQNRWXCVYCGAONWDDKACKAWBBIKFTIOVKCGGHJVLNHIFFSQESVYCLACNVRWBBIREPBBVFEXOSCDYGZWPFDTKFQIYCWHJVLNHIQIBTKHJVNPIST
+cip2: CHREEVOAHMAERATBIAXXWTNXBEEOPHBSBQMQEQERBWRVXUOAKXAOSXXWEAHBWGJMMQMNKGRFVGXWTRZXWIAKLXFPSKAUTEMNDCMGTSXMXBTUIADNGMGPSRELXNJELXVRVPRTULHDNQWTWDTYGBPHXTFALJHASVBFXNGLLCHRZBWELEKMSJIKNBHWRJGNMGJSGLXFEYPHAGNRBIEQJTAMRVLCRREMNDGLXRRIMGNSNRWCHRQHAEYEVTAQEBBIPEEWEVKAKOEWADREMXMTBHHCHRTKDNVRZCHRCLQOHPWQAIIWXNRMGWOIIFKEE
+1	0.0408718
+Key length is:	1	AvgIC	0.0241282
+2	0.0384615
+2	0.04712
+Key length is:	2	AvgIC	0.0222092
+3	0.0559418
+3	0.0481017
+3	0.0482625
+Key length is:	3	AvgIC	0.0142313
+4	0.0372549
+4	0.0427424
+4	0.0375789
+4	0.0490534
+Key length is:	4	AvgIC	0.0233426
+5	0.0425812
+5	0.0430202
+5	0.0325645
+5	0.0352782
+5	0.042967
+Key length is:	5	AvgIC	0.0257178
+6	0.0626566
+6	0.0837662
+6	0.0493506
+6	0.0649351
+6	0.0428571
+6	0.0733766
+Key length is:	6	AvgIC	0.00217627
+7	0.0306122
+7	0.0443262
+7	0.0434397
+7	0.0407801
+7	0.0443262
+7	0.0443262
+7	0.0407801
+Key length is:	7	AvgIC	0.0237727
+8	0.0332226
+8	0.0406504
+8	0.0336818
+8	0.0406504
+8	0.039489
+8	0.0452962
+8	0.0406504
+8	0.0545877
+Key length is:	8	AvgIC	0.0239715
+9	0.0512091
+9	0.0426743
+9	0.0640114
+9	0.0753912
+9	0.0405405
+9	0.0345345
+9	0.0435435
+9	0.048048
+9	0.042042
+Key length is:	9	AvgIC	0.0158895
+10	0.0409982
+10	0.0427807
+10	0.0356506
+10	0.0392157
+10	0.0320856
+10	0.0445633
+10	0.0338681
+10	0.0284091
+10	0.030303
+10	0.0492424
+Key length is:	10	AvgIC	0.0272883
+11	0.0344086
+11	0.055914
+11	0.0430108
+11	0.0344086
+11	0.0301075
+11	0.0365591
+11	0.0387097
+11	0.0597701
+11	0.062069
+11	0.0321839
+11	0.0390805
+Key length is:	11	AvgIC	0.0226162
+12	0.0714286
+12	0.0687831
+12	0.047619
+12	0.0661376
+12	0.0396825
+12	0.0634921
+12	0.0634921
+12	0.111111
+12	0.042328
+12	0.0449735
+12	0.0343915
+12	0.0714286
+Key length is:	12	AvgIC	0.00459436
+13	0.0584615
+13	0.04
+13	0.0523077
+13	0.0369231
+13	0.0307692
+13	0.0338462
+13	0.0369231
+13	0.0307692
+13	0.0553846
+13	0.0553846
+13	0.0430769
+13	0.0276923
+13	0.0433333
+Key length is:	13	AvgIC	0.0230868
+14	0.0233333
+14	0.0362319
+14	0.0398551
+14	0.0471014
+14	0.0507246
+14	0.0543478
+14	0.0434783
+14	0.0398551
+14	0.0362319
+14	0.0543478
+14	0.0398551
+14	0.0507246
+14	0.0507246
+14	0.0362319
+Key length is:	14	AvgIC	0.0219255
+15	0.0395257
+15	0.0711462
+15	0.0395257
+15	0.0355731
+15	0.0513834
+15	0.055336
+15	0.0632411
+15	0.021645
+15	0.025974
+15	0.0692641
+15	0.034632
+15	0.04329
+15	0.047619
+15	0.021645
+15	0.0606061
+Key length is:	15	AvgIC	0.0196396
+16	0.021645
+16	0.0190476
+16	0.047619
+16	0.0333333
+16	0.0380952
+16	0.0380952
+16	0.0428571
+16	0.052381
+16	0.0333333
+16	0.047619
+16	0.0333333
+16	0.0333333
+16	0.0380952
+16	0.0428571
+16	0.0761905
+16	0.0380952
+Key length is:	16	AvgIC	0.0252543
+17	0.0421053
+17	0.0578947
+17	0.0210526
+17	0.0263158
+17	0.0368421
+17	0.0263158
+17	0.0421053
+17	0.0315789
+17	0.0473684
+17	0.0421053
+17	0.0368421
+17	0.0631579
+17	0.0263158
+17	0.0789474
+17	0.0467836
+17	0.0292398
+17	0.0233918
+Key length is:	17	AvgIC	0.0250963
+18	0.0526316
+18	0.0584795
+18	0.0409357
+18	0.0877193
+18	0.0526316
+18	0.0526316
+18	0.0467836
+18	0.0935673
+18	0.0350877
+18	0.111111
+18	0.0409357
+18	0.0994152
+18	0.0760234
+18	0.0588235
+18	0.0457516
+18	0.0392157
+18	0.0522876
+18	0.0718954
+Key length is:	18	AvgIC	0.00300405
+19	0.0718954
+19	0.0457516
+19	0.0196078
+19	0.0522876
+19	0.0326797
+19	0.0196078
+19	0.0326797
+19	0.0261438
+19	0.0653595
+19	0.0392157
+19	0.0457516
+19	0.0196078
+19	0.0130719
+19	0.0261438
+19	0.0294118
+19	0.0514706
+19	0.0220588
+19	0.0220588
+19	0.0220588
+Key length is:	19	AvgIC	0.0304283
+20	0.0514706
+20	0.0514706
+20	0.0441176
+20	0.0294118
+20	0.0514706
+20	0.0294118
+20	0.0367647
+20	0.0220588
+20	0.0294118
+20	0.0294118
+20	0.0147059
+20	0.0367647
+20	0.0220588
+20	0.0294118
+20	0.0294118
+20	0.0735294
+20	0.0514706
+20	0.025
+20	0.025
+20	0.075
+Key length is:	20	AvgIC	0.0271324
+21	0.0294118
+21	0.0333333
+21	0.0666667
+21	0.0416667
+21	0.075
+21	0.125
+21	0.0583333
+21	0.0416667
+21	0.0333333
+21	0.075
+21	0.0333333
+21	0.0416667
+21	0.025
+21	0.075
+21	0.0333333
+21	0.0583333
+21	0.075
+21	0.0333333
+21	0.0583333
+21	0.025
+21	0.0666667
+Key length is:	21	AvgIC	0.012409
+22	0.0583333
+22	0.1
+22	0.0416667
+22	0.05
+22	0.0166667
+22	0.0583333
+22	0.0416667
+22	0.12381
+22	0.0190476
+22	0.0380952
+22	0.047619
+22	0.0190476
+22	0.047619
+22	0.0761905
+22	0.0285714
+22	0.0190476
+22	0.047619
+22	0.0380952
+22	0.00952381
+22	0.104762
+22	0.0666667
+22	0.0571429
+Key length is:	22	AvgIC	0.0145671
+23	0.0952381
+23	0.0285714
+23	0.0571429
+23	0.0761905
+23	0
+23	0.0285714
+23	0.0380952
+23	0.047619
+23	0.0666667
+23	0.0380952
+23	0.047619
+23	0.0190476
+23	0.0571429
+23	0.0666667
+23	0.0285714
+23	0.0659341
+23	0.043956
+23	0.010989
+23	0.0549451
+23	0.032967
+23	0.032967
+23	0.032967
+23	0.043956
+Key length is:	23	AvgIC	0.0209165
+24	0.0666667
+24	0.0549451
+24	0.021978
+24	0.0549451
+24	0.032967
+24	0.0769231
+24	0.0769231
+24	0.0989011
+24	0.0659341
+24	0.021978
+24	0.043956
+24	0.032967
+24	0.0659341
+24	0.0549451
+24	0.032967
+24	0.10989
+24	0.032967
+24	0.0879121
+24	0.032967
+24	0.0659341
+24	0.032967
+24	0.0659341
+24	0.043956
+24	0.0879121
+Key length is:	24	AvgIC	0.00819292
+25	0.032967
+25	0.043956
+25	0.032967
+25	0.043956
+25	0.032967
+25	0.010989
+25	0.032967
+25	0.032967
+25	0.043956
+25	0.0879121
+25	0.043956
+25	0.043956
+25	0.0641026
+25	0.0128205
+25	0.025641
+25	0.0512821
+25	0.0128205
+25	0.0128205
+25	0
+25	0.0384615
+25	0.025641
+25	0.025641
+25	0.0384615
+25	0.0128205
+25	0.0512821
+Key length is:	25	AvgIC	0.0307875
+26	0.0384615
+26	0.0384615
+26	0.0641026
+26	0.0512821
+26	0.0384615
+26	0.0512821
+26	0.0128205
+26	0
+26	0.0128205
+26	0.0512821
+26	0.0384615
+26	0.025641
+26	0.0512821
+26	0.0512821
+26	0.0384615
+26	0.0384615
+26	0.025641
+26	0.0128205
+26	0.025641
+26	0.0384615
+26	0.0384615
+26	0.0512821
+26	0.0384615
+26	0.102564
+26	0.0128205
+26	0.0606061
+Key length is:	26	AvgIC	0.0261798
+Key length = 1,	 Distance to "STANDARD(0.065)" is:	0.0241282
+Key length = 2,	 Distance to "STANDARD(0.065)" is:	0.0222092
+Key length = 3,	 Distance to "STANDARD(0.065)" is:	0.0142313
+Key length = 4,	 Distance to "STANDARD(0.065)" is:	0.0233426
+Key length = 5,	 Distance to "STANDARD(0.065)" is:	0.0257178
+Key length = 6,	 Distance to "STANDARD(0.065)" is:	0.00217627
+Key length = 7,	 Distance to "STANDARD(0.065)" is:	0.0237727
+Key length = 8,	 Distance to "STANDARD(0.065)" is:	0.0239715
+Key length = 9,	 Distance to "STANDARD(0.065)" is:	0.0158895
+Key length = 10,	 Distance to "STANDARD(0.065)" is:	0.0272883
+Key length = 11,	 Distance to "STANDARD(0.065)" is:	0.0226162
+Key length = 12,	 Distance to "STANDARD(0.065)" is:	0.00459436
+Key length = 13,	 Distance to "STANDARD(0.065)" is:	0.0230868
+Key length = 14,	 Distance to "STANDARD(0.065)" is:	0.0219255
+Key length = 15,	 Distance to "STANDARD(0.065)" is:	0.0196396
+Key length = 16,	 Distance to "STANDARD(0.065)" is:	0.0252543
+Key length = 17,	 Distance to "STANDARD(0.065)" is:	0.0250963
+Key length = 18,	 Distance to "STANDARD(0.065)" is:	0.00300405
+Key length = 19,	 Distance to "STANDARD(0.065)" is:	0.0304283
+Key length = 20,	 Distance to "STANDARD(0.065)" is:	0.0271324
+Key length = 21,	 Distance to "STANDARD(0.065)" is:	0.012409
+Key length = 22,	 Distance to "STANDARD(0.065)" is:	0.0145671
+Key length = 23,	 Distance to "STANDARD(0.065)" is:	0.0209165
+Key length = 24,	 Distance to "STANDARD(0.065)" is:	0.00819292
+Key length = 25,	 Distance to "STANDARD(0.065)" is:	0.0307875
+Key length = 26,	 Distance to "STANDARD(0.065)" is:	0.0261798
+1:	KGQNGVGGTGCQWAWQHNJEPJTKQFWAPJGHPWKCTAQVNCIVJFVNIVCPQJQJT
+2:	CUTRRFIUFEKCCKRKKCVTKVRCDRSFRRKFZTEEJFNYWKKKVFYVRFDFIVIV
+3:	CFYRKDLDMGQWRFPYFQAMQDLGZLJSJJMPLFBBRSRCDAFCLSCREEYDYLBN
+4:	PDATDETDBLRDXTTVTQJCDASCXSTIAUIDVPDSWPWGDWTGNQLWPXGTCNTP
+5:	KPVMNTXKPTANILYXPRUMYHVZGWBAHMTILLPHXEXAKBIGHEABBOZKWHKI
+6:	BHIVBDROVGCAZECCOHWSHCSQSCHSKVZSGKGCBZCOABOHISCBBSWFHIHS
+line 1
+A	Probability: 0.0316491
+B	Probability: 0.035807
+C	Probability: 0.0646316
+D	Probability: 0.0388947
+E	Probability: 0.0337719
+F	Probability: 0.0420351
+G	Probability: 0.0366667
+H	Probability: 0.0310877
+I	Probability: 0.0421579
+J	Probability: 0.0459649
+K	Probability: 0.0252456
+L	Probability: 0.0338421
+M	Probability: 0.0382632
+N	Probability: 0.042193
+O	Probability: 0.0380877
+P	Probability: 0.0463158
+Q	Probability: 0.0361228
+R	Probability: 0.0400702
+S	Probability: 0.0422105
+T	Probability: 0.0334386
+U	Probability: 0.0303333
+V	Probability: 0.0393158
+W	Probability: 0.0434211
+X	Probability: 0.034386
+Y	Probability: 0.0415439
+Z	Probability: 0.0335439
+line 2
+A	Probability: 0.0380357
+B	Probability: 0.0394643
+C	Probability: 0.0489107
+D	Probability: 0.0416964
+E	Probability: 0.0395
+F	Probability: 0.0361786
+G	Probability: 0.0454107
+H	Probability: 0.030375
+I	Probability: 0.0268393
+J	Probability: 0.0355
+K	Probability: 0.0449286
+L	Probability: 0.030625
+M	Probability: 0.0350179
+N	Probability: 0.0476964
+O	Probability: 0.0404821
+P	Probability: 0.0329643
+Q	Probability: 0.0355179
+R	Probability: 0.0705536
+S	Probability: 0.0365179
+T	Probability: 0.0299286
+U	Probability: 0.029125
+V	Probability: 0.0355714
+W	Probability: 0.0295536
+X	Probability: 0.0379464
+Y	Probability: 0.0457679
+Z	Probability: 0.0368929
+line 3
+A	Probability: 0.035125
+B	Probability: 0.0364821
+C	Probability: 0.0335357
+D	Probability: 0.0378929
+E	Probability: 0.0355357
+F	Probability: 0.0414286
+G	Probability: 0.0275893
+H	Probability: 0.038
+I	Probability: 0.0337679
+J	Probability: 0.0421071
+K	Probability: 0.0411607
+L	Probability: 0.0455357
+M	Probability: 0.0401071
+N	Probability: 0.0429286
+O	Probability: 0.0365
+P	Probability: 0.0315714
+Q	Probability: 0.0348929
+R	Probability: 0.0391071
+S	Probability: 0.0424107
+T	Probability: 0.0314107
+U	Probability: 0.0390536
+V	Probability: 0.0327321
+W	Probability: 0.03475
+X	Probability: 0.0435
+Y	Probability: 0.0587321
+Z	Probability: 0.0451429
+line 4
+A	Probability: 0.0453571
+B	Probability: 0.0381429
+C	Probability: 0.0438393
+D	Probability: 0.0370536
+E	Probability: 0.0368393
+F	Probability: 0.0379464
+G	Probability: 0.0310714
+H	Probability: 0.0333036
+I	Probability: 0.0389643
+J	Probability: 0.0374643
+K	Probability: 0.03675
+L	Probability: 0.0511964
+M	Probability: 0.0406964
+N	Probability: 0.0313036
+O	Probability: 0.0349464
+P	Probability: 0.066
+Q	Probability: 0.0371071
+R	Probability: 0.0296607
+S	Probability: 0.039
+T	Probability: 0.0408393
+U	Probability: 0.0253036
+V	Probability: 0.0350536
+W	Probability: 0.0412857
+X	Probability: 0.0331786
+Y	Probability: 0.0346607
+Z	Probability: 0.0440357
+line 5
+A	Probability: 0.0403036
+B	Probability: 0.0333214
+C	Probability: 0.0343571
+D	Probability: 0.0396429
+E	Probability: 0.0449107
+F	Probability: 0.033625
+G	Probability: 0.043
+H	Probability: 0.0460357
+I	Probability: 0.0468036
+J	Probability: 0.03425
+K	Probability: 0.0344643
+L	Probability: 0.0359286
+M	Probability: 0.0342143
+N	Probability: 0.0350179
+O	Probability: 0.0335
+P	Probability: 0.0442321
+Q	Probability: 0.034
+R	Probability: 0.03575
+S	Probability: 0.0351429
+T	Probability: 0.0557857
+U	Probability: 0.040875
+V	Probability: 0.0353036
+W	Probability: 0.0434107
+X	Probability: 0.0444821
+Y	Probability: 0.030625
+Z	Probability: 0.0320179
+line 6
+A	Probability: 0.0415536
+B	Probability: 0.0381607
+C	Probability: 0.0366607
+D	Probability: 0.0420536
+E	Probability: 0.0388393
+F	Probability: 0.02675
+G	Probability: 0.0332679
+H	Probability: 0.0394286
+I	Probability: 0.0365357
+J	Probability: 0.0340536
+K	Probability: 0.0476607
+L	Probability: 0.0345179
+M	Probability: 0.024875
+N	Probability: 0.0366607
+O	Probability: 0.0704286
+P	Probability: 0.04225
+Q	Probability: 0.0319643
+R	Probability: 0.03225
+S	Probability: 0.0387321
+T	Probability: 0.0327143
+U	Probability: 0.040125
+V	Probability: 0.0414464
+W	Probability: 0.0352679
+X	Probability: 0.0370714
+Y	Probability: 0.0392679
+Z	Probability: 0.0484643
+line:	1	 char 	A	0.0333509
+line:	1	 char 	B	0.029193
+line:	1	 char 	C	0.000368421
+line:	1	 char 	D	0.0261053
+line:	1	 char 	E	0.0312281
+line:	1	 char 	F	0.0229649
+line:	1	 char 	G	0.0283333
+line:	1	 char 	H	0.0339123
+line:	1	 char 	I	0.0228421
+line:	1	 char 	J	0.0190351
+line:	1	 char 	K	0.0397544
+line:	1	 char 	L	0.0311579
+line:	1	 char 	M	0.0267368
+line:	1	 char 	N	0.022807
+line:	1	 char 	O	0.0269123
+line:	1	 char 	P	0.0186842
+line:	1	 char 	Q	0.0288772
+line:	1	 char 	R	0.0249298
+line:	1	 char 	S	0.0227895
+line:	1	 char 	T	0.0315614
+line:	1	 char 	U	0.0346667
+line:	1	 char 	V	0.0256842
+line:	1	 char 	W	0.0215789
+line:	1	 char 	X	0.030614
+line:	1	 char 	Y	0.0234561
+line:	1	 char 	Z	0.0314561
+Min pos is :	2	C
+line:	2	 char 	A	0.0269643
+line:	2	 char 	B	0.0255357
+line:	2	 char 	C	0.0160893
+line:	2	 char 	D	0.0233036
+line:	2	 char 	E	0.0255
+line:	2	 char 	F	0.0288214
+line:	2	 char 	G	0.0195893
+line:	2	 char 	H	0.034625
+line:	2	 char 	I	0.0381607
+line:	2	 char 	J	0.0295
+line:	2	 char 	K	0.0200714
+line:	2	 char 	L	0.034375
+line:	2	 char 	M	0.0299821
+line:	2	 char 	N	0.0173036
+line:	2	 char 	O	0.0245179
+line:	2	 char 	P	0.0320357
+line:	2	 char 	Q	0.0294821
+line:	2	 char 	R	0.00555357
+line:	2	 char 	S	0.0284821
+line:	2	 char 	T	0.0350714
+line:	2	 char 	U	0.035875
+line:	2	 char 	V	0.0294286
+line:	2	 char 	W	0.0354464
+line:	2	 char 	X	0.0270536
+line:	2	 char 	Y	0.0192321
+line:	2	 char 	Z	0.0281071
+Min pos is :	17	R
+line:	3	 char 	A	0.029875
+line:	3	 char 	B	0.0285179
+line:	3	 char 	C	0.0314643
+line:	3	 char 	D	0.0271071
+line:	3	 char 	E	0.0294643
+line:	3	 char 	F	0.0235714
+line:	3	 char 	G	0.0374107
+line:	3	 char 	H	0.027
+line:	3	 char 	I	0.0312321
+line:	3	 char 	J	0.0228929
+line:	3	 char 	K	0.0238393
+line:	3	 char 	L	0.0194643
+line:	3	 char 	M	0.0248929
+line:	3	 char 	N	0.0220714
+line:	3	 char 	O	0.0285
+line:	3	 char 	P	0.0334286
+line:	3	 char 	Q	0.0301071
+line:	3	 char 	R	0.0258929
+line:	3	 char 	S	0.0225893
+line:	3	 char 	T	0.0335893
+line:	3	 char 	U	0.0259464
+line:	3	 char 	V	0.0322679
+line:	3	 char 	W	0.03025
+line:	3	 char 	X	0.0215
+line:	3	 char 	Y	0.00626786
+line:	3	 char 	Z	0.0198571
+Min pos is :	24	Y
+line:	4	 char 	A	0.0196429
+line:	4	 char 	B	0.0268571
+line:	4	 char 	C	0.0211607
+line:	4	 char 	D	0.0279464
+line:	4	 char 	E	0.0281607
+line:	4	 char 	F	0.0270536
+line:	4	 char 	G	0.0339286
+line:	4	 char 	H	0.0316964
+line:	4	 char 	I	0.0260357
+line:	4	 char 	J	0.0275357
+line:	4	 char 	K	0.02825
+line:	4	 char 	L	0.0138036
+line:	4	 char 	M	0.0243036
+line:	4	 char 	N	0.0336964
+line:	4	 char 	O	0.0300536
+line:	4	 char 	P	0.001
+line:	4	 char 	Q	0.0278929
+line:	4	 char 	R	0.0353393
+line:	4	 char 	S	0.026
+line:	4	 char 	T	0.0241607
+line:	4	 char 	U	0.0396964
+line:	4	 char 	V	0.0299464
+line:	4	 char 	W	0.0237143
+line:	4	 char 	X	0.0318214
+line:	4	 char 	Y	0.0303393
+line:	4	 char 	Z	0.0209643
+Min pos is :	15	P
+line:	5	 char 	A	0.0246964
+line:	5	 char 	B	0.0316786
+line:	5	 char 	C	0.0306429
+line:	5	 char 	D	0.0253571
+line:	5	 char 	E	0.0200893
+line:	5	 char 	F	0.031375
+line:	5	 char 	G	0.022
+line:	5	 char 	H	0.0189643
+line:	5	 char 	I	0.0181964
+line:	5	 char 	J	0.03075
+line:	5	 char 	K	0.0305357
+line:	5	 char 	L	0.0290714
+line:	5	 char 	M	0.0307857
+line:	5	 char 	N	0.0299821
+line:	5	 char 	O	0.0315
+line:	5	 char 	P	0.0207679
+line:	5	 char 	Q	0.031
+line:	5	 char 	R	0.02925
+line:	5	 char 	S	0.0298571
+line:	5	 char 	T	0.00921429
+line:	5	 char 	U	0.024125
+line:	5	 char 	V	0.0296964
+line:	5	 char 	W	0.0215893
+line:	5	 char 	X	0.0205179
+line:	5	 char 	Y	0.034375
+line:	5	 char 	Z	0.0329821
+Min pos is :	19	T
+line:	6	 char 	A	0.0234464
+line:	6	 char 	B	0.0268393
+line:	6	 char 	C	0.0283393
+line:	6	 char 	D	0.0229464
+line:	6	 char 	E	0.0261607
+line:	6	 char 	F	0.03825
+line:	6	 char 	G	0.0317321
+line:	6	 char 	H	0.0255714
+line:	6	 char 	I	0.0284643
+line:	6	 char 	J	0.0309464
+line:	6	 char 	K	0.0173393
+line:	6	 char 	L	0.0304821
+line:	6	 char 	M	0.040125
+line:	6	 char 	N	0.0283393
+line:	6	 char 	O	0.00542857
+line:	6	 char 	P	0.02275
+line:	6	 char 	Q	0.0330357
+line:	6	 char 	R	0.03275
+line:	6	 char 	S	0.0262679
+line:	6	 char 	T	0.0322857
+line:	6	 char 	U	0.024875
+line:	6	 char 	V	0.0235536
+line:	6	 char 	W	0.0297321
+line:	6	 char 	X	0.0279286
+line:	6	 char 	Y	0.0257321
+line:	6	 char 	Z	0.0165357
+Min pos is :	14	O
+cip2 -> key length = 6	key = CRYPTO
+cip char: K	key offset: C	clear text: I
+cip char: C	key offset: R	clear text: L
+cip char: C	key offset: Y	clear text: E
+cip char: P	key offset: P	clear text: A
+cip char: K	key offset: T	clear text: R
+cip char: B	key offset: O	clear text: N
+cip char: G	key offset: C	clear text: E
+cip char: U	key offset: R	clear text: D
+cip char: F	key offset: Y	clear text: H
+cip char: D	key offset: P	clear text: O
+cip char: P	key offset: T	clear text: W
+cip char: H	key offset: O	clear text: T
+cip char: Q	key offset: C	clear text: O
+cip char: T	key offset: R	clear text: C
+cip char: Y	key offset: Y	clear text: A
+cip char: A	key offset: P	clear text: L
+cip char: V	key offset: T	clear text: C
+cip char: I	key offset: O	clear text: U
+cip char: N	key offset: C	clear text: L
+cip char: R	key offset: R	clear text: A
+cip char: R	key offset: Y	clear text: T
+cip char: T	key offset: P	clear text: E
+cip char: M	key offset: T	clear text: T
+cip char: V	key offset: O	clear text: H
+cip char: G	key offset: C	clear text: E
+cip char: R	key offset: R	clear text: A
+cip char: K	key offset: Y	clear text: M
+cip char: D	key offset: P	clear text: O
+cip char: N	key offset: T	clear text: U
+cip char: B	key offset: O	clear text: N
+cip char: V	key offset: C	clear text: T
+cip char: F	key offset: R	clear text: O
+cip char: D	key offset: Y	clear text: F
+cip char: E	key offset: P	clear text: P
+cip char: T	key offset: T	clear text: A
+cip char: D	key offset: O	clear text: P
+cip char: G	key offset: C	clear text: E
+cip char: I	key offset: R	clear text: R
+cip char: L	key offset: Y	clear text: N
+cip char: T	key offset: P	clear text: E
+cip char: X	key offset: T	clear text: E
+cip char: R	key offset: O	clear text: D
+cip char: G	key offset: C	clear text: E
+cip char: U	key offset: R	clear text: D
+cip char: D	key offset: Y	clear text: F
+cip char: D	key offset: P	clear text: O
+cip char: K	key offset: T	clear text: R
+cip char: O	key offset: O	clear text: A
+cip char: T	key offset: C	clear text: R
+cip char: F	key offset: R	clear text: O
+cip char: M	key offset: Y	clear text: O
+cip char: B	key offset: P	clear text: M
+cip char: P	key offset: T	clear text: W
+cip char: V	key offset: O	clear text: H
+cip char: G	key offset: C	clear text: E
+cip char: E	key offset: R	clear text: N
+cip char: G	key offset: Y	clear text: I
+cip char: L	key offset: P	clear text: W
+cip char: T	key offset: T	clear text: A
+cip char: G	key offset: O	clear text: S
+cip char: C	key offset: C	clear text: A
+cip char: K	key offset: R	clear text: T
+cip char: Q	key offset: Y	clear text: S
+cip char: R	key offset: P	clear text: C
+cip char: A	key offset: T	clear text: H
+cip char: C	key offset: O	clear text: O
+cip char: Q	key offset: C	clear text: O
+cip char: C	key offset: R	clear text: L
+cip char: W	key offset: Y	clear text: Y
+cip char: D	key offset: P	clear text: O
+cip char: N	key offset: T	clear text: U
+cip char: A	key offset: O	clear text: M
+cip char: W	key offset: C	clear text: U
+cip char: C	key offset: R	clear text: L
+cip char: R	key offset: Y	clear text: T
+cip char: X	key offset: P	clear text: I
+cip char: I	key offset: T	clear text: P
+cip char: Z	key offset: O	clear text: L
+cip char: A	key offset: C	clear text: Y
+cip char: K	key offset: R	clear text: T
+cip char: F	key offset: Y	clear text: H
+cip char: T	key offset: P	clear text: E
+cip char: L	key offset: T	clear text: S
+cip char: E	key offset: O	clear text: Q
+cip char: W	key offset: C	clear text: U
+cip char: R	key offset: R	clear text: A
+cip char: P	key offset: Y	clear text: R
+cip char: T	key offset: P	clear text: E
+cip char: Y	key offset: T	clear text: F
+cip char: C	key offset: O	clear text: O
+cip char: Q	key offset: C	clear text: O
+cip char: K	key offset: R	clear text: T
+cip char: Y	key offset: Y	clear text: A
+cip char: V	key offset: P	clear text: G
+cip char: X	key offset: T	clear text: E
+cip char: C	key offset: O	clear text: O
+cip char: H	key offset: C	clear text: F
+cip char: K	key offset: R	clear text: T
+cip char: F	key offset: Y	clear text: H
+cip char: T	key offset: P	clear text: E
+cip char: P	key offset: T	clear text: W
+cip char: O	key offset: O	clear text: A
+cip char: N	key offset: C	clear text: L
+cip char: C	key offset: R	clear text: L
+cip char: Q	key offset: Y	clear text: S
+cip char: Q	key offset: P	clear text: B
+cip char: R	key offset: T	clear text: Y
+cip char: H	key offset: O	clear text: T
+cip char: J	key offset: C	clear text: H
+cip char: V	key offset: R	clear text: E
+cip char: A	key offset: Y	clear text: C
+cip char: J	key offset: P	clear text: U
+cip char: U	key offset: T	clear text: B
+cip char: W	key offset: O	clear text: I
+cip char: E	key offset: C	clear text: C
+cip char: T	key offset: R	clear text: C
+cip char: M	key offset: Y	clear text: O
+cip char: C	key offset: P	clear text: N
+cip char: M	key offset: T	clear text: T
+cip char: S	key offset: O	clear text: E
+cip char: P	key offset: C	clear text: N
+cip char: K	key offset: R	clear text: T
+cip char: Q	key offset: Y	clear text: S
+cip char: D	key offset: P	clear text: O
+cip char: Y	key offset: T	clear text: F
+cip char: H	key offset: O	clear text: T
+cip char: J	key offset: C	clear text: H
+cip char: V	key offset: R	clear text: E
+cip char: D	key offset: Y	clear text: F
+cip char: A	key offset: P	clear text: L
+cip char: H	key offset: T	clear text: O
+cip char: C	key offset: O	clear text: O
+cip char: T	key offset: C	clear text: R
+cip char: R	key offset: R	clear text: A
+cip char: L	key offset: Y	clear text: N
+cip char: S	key offset: P	clear text: D
+cip char: V	key offset: T	clear text: C
+cip char: S	key offset: O	clear text: E
+cip char: K	key offset: C	clear text: I
+cip char: C	key offset: R	clear text: L
+cip char: G	key offset: Y	clear text: I
+cip char: C	key offset: P	clear text: N
+cip char: Z	key offset: T	clear text: G
+cip char: Q	key offset: O	clear text: C
+cip char: Q	key offset: C	clear text: O
+cip char: D	key offset: R	clear text: M
+cip char: Z	key offset: Y	clear text: B
+cip char: X	key offset: P	clear text: I
+cip char: G	key offset: T	clear text: N
+cip char: S	key offset: O	clear text: E
+cip char: F	key offset: C	clear text: D
+cip char: R	key offset: R	clear text: A
+cip char: L	key offset: Y	clear text: N
+cip char: S	key offset: P	clear text: D
+cip char: W	key offset: T	clear text: D
+cip char: C	key offset: O	clear text: O
+cip char: W	key offset: C	clear text: U
+cip char: S	key offset: R	clear text: B
+cip char: J	key offset: Y	clear text: L
+cip char: T	key offset: P	clear text: E
+cip char: B	key offset: T	clear text: I
+cip char: H	key offset: O	clear text: T
+cip char: A	key offset: C	clear text: Y
+cip char: F	key offset: R	clear text: O
+cip char: S	key offset: Y	clear text: U
+cip char: I	key offset: P	clear text: T
+cip char: A	key offset: T	clear text: H
+cip char: S	key offset: O	clear text: E
+cip char: P	key offset: C	clear text: N
+cip char: R	key offset: R	clear text: A
+cip char: J	key offset: Y	clear text: L
+cip char: A	key offset: P	clear text: L
+cip char: H	key offset: T	clear text: O
+cip char: K	key offset: O	clear text: W
+cip char: J	key offset: C	clear text: H
+cip char: R	key offset: R	clear text: A
+cip char: J	key offset: Y	clear text: L
+cip char: U	key offset: P	clear text: F
+cip char: M	key offset: T	clear text: T
+cip char: V	key offset: O	clear text: H
+cip char: G	key offset: C	clear text: E
+cip char: K	key offset: R	clear text: T
+cip char: M	key offset: Y	clear text: O
+cip char: I	key offset: P	clear text: T
+cip char: T	key offset: T	clear text: A
+cip char: Z	key offset: O	clear text: L
+cip char: H	key offset: C	clear text: F
+cip char: F	key offset: R	clear text: O
+cip char: P	key offset: Y	clear text: R
+cip char: D	key offset: P	clear text: O
+cip char: I	key offset: T	clear text: P
+cip char: S	key offset: O	clear text: E
+cip char: P	key offset: C	clear text: N
+cip char: Z	key offset: R	clear text: I
+cip char: L	key offset: Y	clear text: N
+cip char: V	key offset: P	clear text: G
+cip char: L	key offset: T	clear text: S
+cip char: G	key offset: O	clear text: S
+cip char: W	key offset: C	clear text: U
+cip char: T	key offset: R	clear text: C
+cip char: F	key offset: Y	clear text: H
+cip char: P	key offset: P	clear text: A
+cip char: L	key offset: T	clear text: S
+cip char: K	key offset: O	clear text: W
+cip char: K	key offset: C	clear text: I
+cip char: E	key offset: R	clear text: N
+cip char: B	key offset: Y	clear text: D
+cip char: D	key offset: P	clear text: O
+cip char: P	key offset: T	clear text: W
+cip char: G	key offset: O	clear text: S
+cip char: C	key offset: C	clear text: A
+cip char: E	key offset: R	clear text: N
+cip char: B	key offset: Y	clear text: D
+cip char: S	key offset: P	clear text: D
+cip char: H	key offset: T	clear text: O
+cip char: C	key offset: O	clear text: O
+cip char: T	key offset: C	clear text: R
+cip char: J	key offset: R	clear text: S
+cip char: R	key offset: Y	clear text: T
+cip char: W	key offset: P	clear text: H
+cip char: X	key offset: T	clear text: E
+cip char: B	key offset: O	clear text: N
+cip char: A	key offset: C	clear text: Y
+cip char: F	key offset: R	clear text: O
+cip char: S	key offset: Y	clear text: U
+cip char: P	key offset: P	clear text: A
+cip char: E	key offset: T	clear text: L
+cip char: Z	key offset: O	clear text: L
+cip char: Q	key offset: C	clear text: O
+cip char: N	key offset: R	clear text: W
+cip char: R	key offset: Y	clear text: T
+cip char: W	key offset: P	clear text: H
+cip char: X	key offset: T	clear text: E
+cip char: C	key offset: O	clear text: O
+cip char: V	key offset: C	clear text: T
+cip char: Y	key offset: R	clear text: H
+cip char: C	key offset: Y	clear text: E
+cip char: G	key offset: P	clear text: R
+cip char: A	key offset: T	clear text: H
+cip char: O	key offset: O	clear text: A
+cip char: N	key offset: C	clear text: L
+cip char: W	key offset: R	clear text: F
+cip char: D	key offset: Y	clear text: F
+cip char: D	key offset: P	clear text: O
+cip char: K	key offset: T	clear text: R
+cip char: A	key offset: O	clear text: M
+cip char: C	key offset: C	clear text: A
+cip char: K	key offset: R	clear text: T
+cip char: A	key offset: Y	clear text: C
+cip char: W	key offset: P	clear text: H
+cip char: B	key offset: T	clear text: I
+cip char: B	key offset: O	clear text: N
+cip char: I	key offset: C	clear text: G
+cip char: K	key offset: R	clear text: T
+cip char: F	key offset: Y	clear text: H
+cip char: T	key offset: P	clear text: E
+cip char: I	key offset: T	clear text: P
+cip char: O	key offset: O	clear text: A
+cip char: V	key offset: C	clear text: T
+cip char: K	key offset: R	clear text: T
+cip char: C	key offset: Y	clear text: E
+cip char: G	key offset: P	clear text: R
+cip char: G	key offset: T	clear text: N
+cip char: H	key offset: O	clear text: T
+cip char: J	key offset: C	clear text: H
+cip char: V	key offset: R	clear text: E
+cip char: L	key offset: Y	clear text: N
+cip char: N	key offset: P	clear text: Y
+cip char: H	key offset: T	clear text: O
+cip char: I	key offset: O	clear text: U
+cip char: F	key offset: C	clear text: D
+cip char: F	key offset: R	clear text: O
+cip char: S	key offset: Y	clear text: U
+cip char: Q	key offset: P	clear text: B
+cip char: E	key offset: T	clear text: L
+cip char: S	key offset: O	clear text: E
+cip char: V	key offset: C	clear text: T
+cip char: Y	key offset: R	clear text: H
+cip char: C	key offset: Y	clear text: E
+cip char: L	key offset: P	clear text: W
+cip char: A	key offset: T	clear text: H
+cip char: C	key offset: O	clear text: O
+cip char: N	key offset: C	clear text: L
+cip char: V	key offset: R	clear text: E
+cip char: R	key offset: Y	clear text: T
+cip char: W	key offset: P	clear text: H
+cip char: B	key offset: T	clear text: I
+cip char: B	key offset: O	clear text: N
+cip char: I	key offset: C	clear text: G
+cip char: R	key offset: R	clear text: A
+cip char: E	key offset: Y	clear text: G
+cip char: P	key offset: P	clear text: A
+cip char: B	key offset: T	clear text: I
+cip char: B	key offset: O	clear text: N
+cip char: V	key offset: C	clear text: T
+cip char: F	key offset: R	clear text: O
+cip char: E	key offset: Y	clear text: G
+cip char: X	key offset: P	clear text: I
+cip char: O	key offset: T	clear text: V
+cip char: S	key offset: O	clear text: E
+cip char: C	key offset: C	clear text: A
+cip char: D	key offset: R	clear text: M
+cip char: Y	key offset: Y	clear text: A
+cip char: G	key offset: P	clear text: R
+cip char: Z	key offset: T	clear text: G
+cip char: W	key offset: O	clear text: I
+cip char: P	key offset: C	clear text: N
+cip char: F	key offset: R	clear text: O
+cip char: D	key offset: Y	clear text: F
+cip char: T	key offset: P	clear text: E
+cip char: K	key offset: T	clear text: R
+cip char: F	key offset: O	clear text: R
+cip char: Q	key offset: C	clear text: O
+cip char: I	key offset: R	clear text: R
+cip char: Y	key offset: Y	clear text: A
+cip char: C	key offset: P	clear text: N
+cip char: W	key offset: T	clear text: D
+cip char: H	key offset: O	clear text: T
+cip char: J	key offset: C	clear text: H
+cip char: V	key offset: R	clear text: E
+cip char: L	key offset: Y	clear text: N
+cip char: N	key offset: P	clear text: Y
+cip char: H	key offset: T	clear text: O
+cip char: I	key offset: O	clear text: U
+cip char: Q	key offset: C	clear text: O
+cip char: I	key offset: R	clear text: R
+cip char: B	key offset: Y	clear text: D
+cip char: T	key offset: P	clear text: E
+cip char: K	key offset: T	clear text: R
+cip char: H	key offset: O	clear text: T
+cip char: J	key offset: C	clear text: H
+cip char: V	key offset: R	clear text: E
+cip char: N	key offset: Y	clear text: P
+cip char: P	key offset: P	clear text: A
+cip char: I	key offset: T	clear text: P
+cip char: S	key offset: O	clear text: E
+cip char: T	key offset: C	clear text: R
+ILEARNEDHOWTOCALCULATETHEAMOUNTOFPAPERNEEDEDFORAROOMWHENIWASATSCHOOLYOUMULTIPLYTHESQUAREFOOTAGEOFTHEWALLSBYTHECUBICCONTENTSOFTHEFLOORANDCEILINGCOMBINEDANDDOUBLEITYOUTHENALLOWHALFTHETOTALFOROPENINGSSUCHASWINDOWSANDDOORSTHENYOUALLOWTHEOTHERHALFFORMATCHINGTHEPATTERNTHENYOUDOUBLETHEWHOLETHINGAGAINTOGIVEAMARGINOFERRORANDTHENYOUORDERTHEPAPER

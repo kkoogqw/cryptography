@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\Code_Project\C_Cryptography\exp2\SourceCode\FiniteFieldConstruction
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Code_Project/C_Cryptography/exp2/SourceCode/FiniteFieldConstruction/cmake-build-debug

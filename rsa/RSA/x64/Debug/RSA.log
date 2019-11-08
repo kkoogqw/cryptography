@@ -1,0 +1,15 @@
+﻿  BigInt.cpp
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(93): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(220): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(322): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(369): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+c:\users\kkoog\desktop\rsa\rsa\main.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Rsa.cpp
+c:\users\kkoog\desktop\rsa\rsa\rsa.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\kkoog\desktop\rsa\rsa\rsa.cpp(53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  RSA.vcxproj -> C:\Users\kkoog\Desktop\RSA\x64\Debug\RSA.exe

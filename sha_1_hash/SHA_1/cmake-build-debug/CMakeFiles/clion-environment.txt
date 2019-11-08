@@ -1,0 +1,4 @@
+ToolSet: 3.20@B:\Programming-envi\MinGW
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=B:/Programming-envi/MinGW/bin/mingw32-make.exe

@@ -1,0 +1,4 @@
+ToolSet: w64 4.0@C:\ProgrammingEnvironment\TDM_GCC
+Options: msvc.arch=amd64
+
+Options:

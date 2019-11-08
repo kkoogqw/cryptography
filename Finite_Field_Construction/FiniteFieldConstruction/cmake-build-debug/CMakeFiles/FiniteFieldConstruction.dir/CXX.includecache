@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Code_Project/C_Cryptography/exp2/SourceCode/FiniteFieldConstruction/ECC2_131.cpp
+ECC2_131.h
+F:/Code_Project/C_Cryptography/exp2/SourceCode/FiniteFieldConstruction/ECC2_131.h
+
+F:/Code_Project/C_Cryptography/exp2/SourceCode/FiniteFieldConstruction/ECC2_131.h
+iostream
+-
+string
+-
+sstream
+-
+
+F:/Code_Project/C_Cryptography/exp2/SourceCode/FiniteFieldConstruction/main.cpp
+ECC2_131.h
+F:/Code_Project/C_Cryptography/exp2/SourceCode/FiniteFieldConstruction/ECC2_131.h
+

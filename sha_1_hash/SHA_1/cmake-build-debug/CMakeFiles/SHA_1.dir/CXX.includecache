@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Code_Project/C_Cryptography/exp4/SHA_1/SHA_1.h
+iostream
+-
+string
+-
+cstdio
+-
+vector
+-
+cmath
+-
+
+E:/Code_Project/C_Cryptography/exp4/SHA_1/main.cpp
+SHA_1.h
+E:/Code_Project/C_Cryptography/exp4/SHA_1/SHA_1.h
+

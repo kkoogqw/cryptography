@@ -1,0 +1,11 @@
+﻿  BigInt.cpp
+c:\users\kkoog\desktop\rsa\rsa\bigint.h(134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kkoog\desktop\rsa\rsa\bigint.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+c:\users\kkoog\desktop\rsa\rsa\bigint.h(134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kkoog\desktop\rsa\rsa\main.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  Rsa.cpp
+c:\users\kkoog\desktop\rsa\rsa\bigint.h(134): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kkoog\desktop\rsa\rsa\rsa.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  RSA.vcxproj -> C:\Users\kkoog\Desktop\RSA\Debug\RSA.exe

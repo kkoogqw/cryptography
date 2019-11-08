@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My WorkSpace/code/Cryptography/EXP_1/1_1/CrackVigenere.h
+iostream
+-
+string
+-
+
+D:/My WorkSpace/code/Cryptography/EXP_1/1_1/VigenereDecode.h
+iostream
+-
+string
+-
+
+D:/My WorkSpace/code/Cryptography/EXP_1/1_1/main.cpp
+VigenereDecode.h
+D:/My WorkSpace/code/Cryptography/EXP_1/1_1/VigenereDecode.h
+CrackVigenere.h
+D:/My WorkSpace/code/Cryptography/EXP_1/1_1/CrackVigenere.h
+fstream
+-
+sstream
+-
+time.h
+-
+

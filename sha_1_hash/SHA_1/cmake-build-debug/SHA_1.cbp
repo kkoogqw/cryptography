@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SHA_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SHA_1">
+				<Option output="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/SHA_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SHA_1"/>
+					<CompileFile command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SHA_1/fast">
+				<Option output="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/SHA_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+					<Add directory="b:\programming-envi\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SHA_1/fast"/>
+					<CompileFile command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/Programming-envi/MinGW/bin/mingw32-make.exe -f &quot;E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Code_Project/C_Cryptography/exp4/SHA_1/SHA_1.cpp">
+			<Option target="SHA_1"/>
+		</Unit>
+		<Unit filename="E:/Code_Project/C_Cryptography/exp4/SHA_1/SHA_1.h">
+			<Option target="SHA_1"/>
+		</Unit>
+		<Unit filename="E:/Code_Project/C_Cryptography/exp4/SHA_1/main.cpp">
+			<Option target="SHA_1"/>
+		</Unit>
+		<Unit filename="E:/Code_Project/C_Cryptography/exp4/SHA_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

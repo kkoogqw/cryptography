@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=B:/Programming-envi/MinGW/bin/mingw32-make.exe -G "CodeBlocks - MinGW Makefiles" E:\Code_Project\C_Cryptography\exp4\SHA_1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Code_Project/C_Cryptography/exp4/SHA_1/cmake-build-debug
